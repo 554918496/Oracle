@@ -54,4 +54,4 @@ where rownum>0 and rownum<=5
 ```
 
 运行结果：
-![运行结果](https://github.com/554918496/Oracle/blob/master/test/3.png)
+![运行结果](https://github.com/554918496/Oracle/blob/master/test1/3.png)
